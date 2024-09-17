@@ -1,23 +1,23 @@
-# CapstoneProjectTemplate /* Replace this line with the title of your project */
+# Next Gen Financial Learning Hub: CMS and Global Economics Mini-Simulation
 
 ## **Summary**
 
-Put a very high-level summary of the project.
+Intertwined aims to expand its educational offerings by developing a state-of-the-art Content Management System (CMS) for our online coursework and a new Global Economics Simulation.
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
-
+- Corey Brown
+- Spenser Buck
+- Caige Rogers
+- Harry Soans
+- Kris Thurman
+  
 ## **Client Partner Information**
 
 ### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
-
+Intertwined Finance
 ### *People:*
-- Jane Fonda
-- Jane Lynch
+- Kerry Ao
 
 ## **Links**
 
