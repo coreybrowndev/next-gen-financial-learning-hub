@@ -1,5 +1,7 @@
 # Business Requirements
 
+A more simplified system for managing existing and new courses within the current Learning Course Platform, 
+
 ## BR1: Tailwind CSS and React Integration for Front-end
 The system must use **Tailwind CSS** for styling and **React** for the front-end. 
 - **Explanation**: Tailwind is a utility class used for building custom UI without leaving the HTML code.
