@@ -16,4 +16,4 @@ The system must support a simplified method for making changes to the course con
 ## BR3: Dynamic Question Handling
 The system should automatically generate a similar question if a quiz question is answered incorrectly.
 - **Explanation**: When managing quizzes and courses, the system must preserve student performance records while also allowing for flexible content changes
-- ensures minimal disruption to students. This requirement focuses on user experience for both administrators and students, maintaining data integrity even when content is modified or deleted.
+- ensures minimal disruption to students. This requirement focuses on both teachers and students, making sure the data integrity is there even when content is modified or deleted.
