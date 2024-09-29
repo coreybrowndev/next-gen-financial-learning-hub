@@ -32,12 +32,12 @@ Flow:
 | **Name of Use Case:**       | Student Performance Metrics Preservation                           |
 |-----------------------------|---------------------------------------------|
 | **Description:**             | Administrator modifies or deletes content related to a specific quiz, which was previously completed by student.  |
-| **Actors:**                  | Administrator, Student                                    |
+| **Actors:**                  | **Primary**: Administrator : **Secondary**: Student                                    |
 
 Flow: 
-- The admin modifies or deletes content related to a specific quiz.
+- The Administrator modifies or deletes content related to a specific quiz.
 - The system checks for associated student metrics related to the quiz.
 - The system maintains student metrics, making sure historical data remains intact even after content changes.
-- The updated course content is saved, and the student metrics are kept as historical data in the reports.
+- The updated course content is saved, and the student metrics are maintained unedited as historical data in the reports.
 
 [Link to Business Requirement](/Design/BusinessRequirements.md#br3-persistance-of-current-student-metrics)
