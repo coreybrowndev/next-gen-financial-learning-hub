@@ -18,8 +18,8 @@
 | **Actors:**                  | Administrator                                    |
 
 Flow: 
-- The instructor logs into the system and selects the course to edit.
-- The instructor adds or modifies quiz questions or learning content.
+- The Administrator logs into the system and selects the course to edit.
+- The Administrator adds or modifies quiz questions or learning content.
 - The system saves the updates made to the course content and stores the changes in the database.
 - The system adds a new entry of the edit to the version history log of the content.
 
