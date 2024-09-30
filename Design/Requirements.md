@@ -27,7 +27,7 @@
   **Use Case:** UC1  
   **Notes:** Facilitates quicker updates to quizzes with multiple questions.
 
-  - **FR5: Quizzes should generate a similar question if the original one is answered incorrectly.**  
+  - **FR6: Quizzes should generate a similar question if the original one is answered incorrectly.**  
   **Priority:** MEDIUM  
   **Use Case:** UC1  
   **Notes:** Allows User to be tested properply 
