@@ -38,7 +38,7 @@ This document provides an overview of the architecture for the [next-gen-financi
 
 ## Architecture Diagram
 ```mermaid
-
+    Monolith 
     A[Client Side (React, Tailwind CSS)] -->|HTTP Requests| B[API Gateway (ASP.NET)]
     B --> C[Authentication & Authorization Module]
     B --> D[Course Management Module]
