@@ -36,31 +36,36 @@ This document provides an overview of the architecture for the [next-gen-financi
   - photo and video storage
   - storage off links 
 
-## Architecture Diagram
+# Microservice Architecture using Pipe and Filter Model
+
 ```mermaid
-    Monolith 
-    A[Client Side (React, Tailwind CSS)] -->|HTTP Requests| B[API Gateway (ASP.NET)]
-    B --> C[Authentication & Authorization Module]
-    B --> D[Course Management Module]
-    B --> E[Quiz Management Module]
-    B --> F[Performance Metrics Module]
-    B --> G[Version Control Module]
-    C --> H[Identity Server (ASP.NET Identity)]
-    D --> I[Database (MySQL)] 
-    E --> I[Database (MySQL)] 
-    F --> I[Database (MySQL)] 
-    G --> I[Database (MySQL)] 
-    I -->|Stored Data| I[(Data Storage - JSON, Photos, Videos)]
+graph TD;
+    A[Client] --> B[API Gateway];
+    B --> C[Authentication Service];
+    B --> D[Course Service];
+    B --> E[Quiz Service];
+    B --> F[Metrics Service];
+    B --> G[Notification Service];
     
-    subgraph Server Side
-        B
+    D --> H[Version Control Service];
+    E --> H;
+    F --> H;
+    
+    D --> I[Database Service];
+    E --> I;
+    F --> I;
+
+    subgraph Microservices
         C
         D
         E
         F
         G
+        H
     end
-    
-    subgraph Database
+
+    subgraph Data Storage
         I
     end
+
+
