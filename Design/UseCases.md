@@ -11,6 +11,7 @@
 
 # Use Cases
 - UC1: Modify Course Content
+  - This use case involves an administrator editing and managing course content. The system should allow for the flexible creation, modification, or deletion of course material (such as lessons, quizzes, and assignments). The content management process must be simplified compared to the previous system that required manual script execution.
   
 | **Name of Use Case:**       | Modify Course Content                           |
 |-----------------------------|---------------------------------------------|
@@ -28,6 +29,7 @@ Flow:
 
 
 - UC2: Student Performance Metrics Preservation
+  - The system must ensure that student performance metrics (such as quiz results) are maintained even if the related course or quiz content is modified or deleted. This ensures that student records remain consistent and unaffected by content updates.
   
 | **Name of Use Case:**       | Student Performance Metrics Preservation                           |
 |-----------------------------|---------------------------------------------|
