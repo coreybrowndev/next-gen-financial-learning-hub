@@ -37,5 +37,30 @@ This document provides an overview of the architecture for the [next-gen-financi
   - storage off links 
 
 ## Architecture Diagram
-```plaintext
-[Client] <--> [Server] <--> [Database]
+```mermaid
+
+    A[Client Side (React, Tailwind CSS)] -->|HTTP Requests| B[API Gateway (ASP.NET)]
+    B --> C[Authentication & Authorization Module]
+    B --> D[Course Management Module]
+    B --> E[Quiz Management Module]
+    B --> F[Performance Metrics Module]
+    B --> G[Version Control Module]
+    C --> H[Identity Server (ASP.NET Identity)]
+    D --> I[Database (MySQL)] 
+    E --> I[Database (MySQL)] 
+    F --> I[Database (MySQL)] 
+    G --> I[Database (MySQL)] 
+    I -->|Stored Data| I[(Data Storage - JSON, Photos, Videos)]
+    
+    subgraph Server Side
+        B
+        C
+        D
+        E
+        F
+        G
+    end
+    
+    subgraph Database
+        I
+    end
