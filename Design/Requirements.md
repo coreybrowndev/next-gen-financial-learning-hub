@@ -2,7 +2,7 @@
 
 ## Group: Use Case 1 (UC1) - Modify Course Content
 
-- **FR1: The system shall allow the Administrator to log in to modify course content.**  
+- **FR1: The system shall allow the Administrator to log in to course content.**  
   **Priority:** HIGH  
   **Use Case:** UC1  
   **Notes:** Ensures only authorized users can make changes to course materials.
@@ -34,22 +34,22 @@
 
 ## Group: Use Case 2 (UC2) - Student Performance Metrics Preservation
 
-- **FR5: The system shall allow the Administrator to modify or delete quiz content.**  
+- **FR1: The system shall allow the Administrator to modify or delete quiz content.**  
   **Priority:** HIGH  
   **Use Case:** UC2  
   **Notes:** Provides flexibility in course management while ensuring metrics are preserved.
 
-- **FR6: The system shall check for associated student metrics related to any modified or deleted quiz content.**  
+- **FR2: The system shall check for associated student metrics related to any modified or deleted quiz content.**  
   **Priority:** HIGH  
   **Use Case:** UC2  
   **Notes:** Ensures that historical performance data is not lost.
 
-- **FR7: The system shall maintain student performance metrics as historical data even after quiz content is modified.**  
+- **FR3: The system shall maintain student performance metrics as historical data even after quiz content is modified.**  
   **Priority:** HIGH  
   **Use Case:** UC2  
   **Notes:** Guarantees integrity and availability of student performance data.
 
-- **FR8: The system shall allow administrators to generate reports on student performance metrics, including historical data.**  
+- **FR4: The system shall allow administrators to generate reports on student performance metrics, including historical data.**  
   **Priority:** MEDIUM  
   **Use Case:** UC2  
   **Notes:** Provides valuable insights for instructors and administrators.
