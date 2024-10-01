@@ -25,6 +25,7 @@ Intertwined Finance
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
+- [Link to Interation Features/TODO board] (https://github.com/users/HarrySoans/projects/1/views/1)
 - ... any other documents/links you see need
 
 ## **Code Repositories**
