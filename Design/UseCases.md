@@ -27,4 +27,4 @@
     - (Optional) Administrator may choose to edit lesson content.
     - (Optional) Administrator may chooses quiz to edit.
     - The system adds a new entry of the changes to the version history log.
-  - Editing content is a core feature of the application. The system should allow an Administrator of the system to handle the modification of content including and/all content added to the system (such as courses, lessons, quizzes, and assignments). The content editing process must be simplified compared to the previous system that required manual script execution.
+  - Editing content is a core feature of the application. The system should allow an Administrator of the system to handle the modification of content including all content added to the system (such as courses, lessons, quizzes, and assignments). The content editing process must be simplified compared to the previous system that required manual script execution.
