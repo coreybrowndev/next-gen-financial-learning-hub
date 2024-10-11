@@ -52,3 +52,15 @@
     - The system displays a list of previous versions with timestamps and changes made.
     - Administrator can select any version to view details about.
   - Viewing changes to content is an important feature of the application. The system should allow an Administrator of the system to view historical changes made to content, viewing specific and relevant information about the changes that were made to the content.
+ 
+- UC5: Simplified Content Management
+  - [BR2](/Design/BusinessRequirements.md#br2-simplified-course-content-management-with-version-control)
+  - Administrator
+  - Flow:
+    - Precondition: Administrator is logged into the system.
+    - Administrator selects a course to create or edit.
+    - Administrator modifies the content without the need to run scripts manually.
+    - The system allows the Administrator to add, delete, or edit lessons and quizzes in a simplified interface.
+    - The system automatically saves the changes and updates the content version control log.
+    - Postcondition: The content is updated in a simplified manner, with no manual script execution required.
+  - Simplified content management is a core important feature of the application. The system should allow an Administrator to manage content in a simplified manner compared to the exisiting system. 
