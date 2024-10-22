@@ -21,12 +21,16 @@ Please follow these instructions carefully to setup this project on your machine
 *   Open the folder after cloning in the command line.
     *   If you cloned using command line, just cd into directory by:
         *   <pre>cd next-gen-financial-learning-hub </pre>
-
    
 
 ## Running the App
 
 You can run the React app using the following commands while inside the project directory:
+
+### NOTE
+
+Before running the application, ensure you create this file  ```.npmrc``` in the root directory of the project
+
 
 ```
 # Install dependencies
@@ -64,7 +68,7 @@ Below is a list of third-party software used in this project:
 | **Tailwind CSS**   | A utility-first CSS framework for styling the application.     |
 | **Shadcn UI**      | A UI library that integrates well with React and Tailwind CSS. |
 | **Vitest**         | A testing framework built for Vite.                            |
-| **Slate**          | A customizable framework for building rich text editors.       |
+| **TipTap**          | A customizable framework for building rich text editors.       |
 | **React Feather**  | A collection of simply beautiful open-source icons for React.  |
 | **React Router**   | A standard library for routing in React applications.          |
 | **Tanstack Query** | Powerful asynchronous state management for React.              |
