@@ -24,7 +24,7 @@ Please follow these instructions carefully to setup this project on your machine
 
    
 
-## Running the App and Installing Dependencies
+## Running the App
 
 You can run the React app using the following commands while inside the project directory:
 
