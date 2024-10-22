@@ -30,7 +30,14 @@ You can run the React app using the following commands while inside the project 
 ### NOTE
 
 Before running the application, ensure you create this file  ```.npmrc``` in the root directory of the project
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/npmrc.png)  
+This is crucial as this file stores a core dependency 
 
+Copy the following into the file   
+```@tiptap-pro:registry=https://registry.tiptap.dev/
+//registry.tiptap.dev/:_authToken=${$API_KEY}
+```  
+Gather the $API_KEY from a Developer listed on the project
 
 ```
 # Install dependencies
