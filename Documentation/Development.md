@@ -1,5 +1,3 @@
-Updated
-
 # About this Project
 
 # FRONTEND
