@@ -10,8 +10,8 @@ This is a frontend application powering the Content Management System of Intertw
 
 Current versioning:
 
-- npm: version 10.8.1
-- node: version 22.3.0
+- npm: version 10.8.1>
+- node: version 22.3.0>
 
 Please follow these instructions carefully to setup this project on your machine.
 
