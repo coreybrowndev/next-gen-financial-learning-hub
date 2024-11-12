@@ -74,3 +74,19 @@ classDiagram
     Course --> Quiz : contains
     PerformanceMetric --> Student : records for
 
++ Administrator
+- Manages course content, oversees system functionality, and generates reports. Administrators can modify course content and track version history of changes.
++ Instructor
+- Manages courses and views student metrics related to performance. Instructors are responsible for course-specific content.
++ Student
+- Enrolls in courses, completes quizzes, and tracks personal performance metrics.
++ Course
+- Represents a specific educational course containing units, sections, lessons, and quizzes for enrolled students.
++ Quiz
+- Contains questions related to the course and keeps track of students who have completed it.
++ Question
+- Represents individual questions within a quiz, with answer options.
++ PeforamnceMetric
+- Tracks the performance of a student on a specific quiz.
++ VersionHistory
+- Maintains a log of changes made to the course content for tracking purposes.
