@@ -88,8 +88,24 @@ Below is a list of third-party software used in this project:
   - Linux: [Linux](https://docs.docker.com/desktop/setup/install/linux/).
 - Run the Docker executable and start when installing is done.
 
-## Setup Directory 
-- 
+## Clone Repos 
+- Clone the following Repos
+  - `git clone https://github.com/coreybrowndev/next-gen-financial-learning-hub-frontend`
+ 
+
+## You can do it via command line
+  - (Windows) Shift+Right-click to an empty place on that folder to open a command line.
+  - Run these commands:
+   - `git clone https://github.com/coreybrowndev/next-gen-financial-learning-hub-frontend`
+
+# Run
+- Run the Frontend
+  - Run the following docker-compose command in the root folder
+  - `docker compose up --build`
+  - `docker build --build-arg NPM_TOKEN="API_TOKEN" -t "next-gen-frontend"`
+  - `docker-compose up`
+  -  Navigate to `http://localhost:5173/` in your browser to access the app
+
 
 
 
