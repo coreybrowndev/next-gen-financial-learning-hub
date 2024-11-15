@@ -77,3 +77,19 @@ Below is a list of third-party software used in this project:
 | **React Feather**  | A collection of simply beautiful open-source icons for React.  |
 | **React Router**   | A standard library for routing in React applications.          |
 | **Tanstack Query** | Powerful asynchronous state management for React.              |
+
+# Replecating via Docker
+
+## Install Prerequisites
+
+- Download and install Docker Desktop
+  - Mac:  [Mac](https://docs.docker.com/desktop/setup/install/mac-install/) 
+  - Windows: [Windows](https://docs.docker.com/desktop/setup/install/windows-install/).
+  - Linux: [Linux](https://docs.docker.com/desktop/setup/install/linux/).
+- Run the Docker executable and start when installing is done.
+
+## Setup Directory 
+- 
+
+
+
