@@ -78,7 +78,7 @@ Below is a list of third-party software used in this project:
 | **React Router**   | A standard library for routing in React applications.          |
 | **Tanstack Query** | Powerful asynchronous state management for React.              |
 
-# Replecating via Docker
+# Replicating via Docker
 
 ## Install Prerequisites
 
@@ -101,10 +101,10 @@ Below is a list of third-party software used in this project:
 # Run
 - Run the Frontend
   - Run the following docker-compose command in the root folder
-  - `docker compose up --build`
-  - `docker build --build-arg NPM_TOKEN="API_TOKEN" -t "next-gen-frontend"`
-  - `docker-compose up`
+  - `docker compose up`
   -  Navigate to `http://localhost:5173/` in your browser to access the app
+  -  ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/npmrc.png)  
+
 
 
 
