@@ -32,7 +32,8 @@ Before running the application, ensure you create this file  ```.npmrc``` in the
 This is crucial as this file stores a core dependency 
 
 Copy the following into the file   
-```@tiptap-pro:registry=https://registry.tiptap.dev/
+```
+@tiptap-pro:registry=https://registry.tiptap.dev/
 //registry.tiptap.dev/:_authToken=${$API_KEY}
 ```  
 Gather the $API_KEY from a Developer listed on the project
@@ -99,7 +100,18 @@ Below is a list of third-party software used in this project:
    - `git clone https://github.com/coreybrowndev/next-gen-financial-learning-hub-frontend`
 
 # Run
-- Run the Frontend
+- Run the Frontend  
+  Before running the application, ensure you create this file  ```.npmrc``` in the root directory of the project
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/npmrc.png)  
+This is crucial as this file stores a core dependency 
+
+Copy the following into the file   
+```
+@tiptap-pro:registry=https://registry.tiptap.dev/
+//registry.tiptap.dev/:_authToken=${$API_KEY}
+```  
+Gather the $API_KEY from a Developer listed on the project
+
   - Run the following docker-compose command in the root folder
   - `docker compose up`
   -  Navigate to `http://localhost:5173/` in your browser to access the app
