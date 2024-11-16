@@ -103,7 +103,7 @@ Below is a list of third-party software used in this project:
   - Run the following docker-compose command in the root folder
   - `docker compose up`
   -  Navigate to `http://localhost:5173/` in your browser to access the app
-  -  ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/npmrc.png)  
+  -  ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/docker-compose-output.png)  
 
 
 
