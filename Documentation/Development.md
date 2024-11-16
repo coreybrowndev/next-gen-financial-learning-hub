@@ -90,6 +90,7 @@ Below is a list of third-party software used in this project:
 - Run the Docker executable and start when installing is done.
 
 ## Clone Repos 
+## Frontend
 - Clone the following Repos
   - `git clone https://github.com/coreybrowndev/next-gen-financial-learning-hub-frontend`
  
@@ -99,7 +100,7 @@ Below is a list of third-party software used in this project:
   - Run these commands:
    - `git clone https://github.com/coreybrowndev/next-gen-financial-learning-hub-frontend`
 
-# Run
+### Run
 - Run the Frontend  
   Before running the application, ensure you create this file  ```.npmrc``` in the root directory of the project
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/npmrc.png)  
