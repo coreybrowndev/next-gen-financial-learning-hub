@@ -5,9 +5,10 @@
 - To create content click ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Capture.PNG)
 - You can click the cloud button to import JSON file to the database 
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-10-22%20at%2019.14.36.png)
-- This is our editor.
+- This is updated our editor.
 - You can create different types of content described below.
-![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-10-22%20at%2019.09.36.png)
+- The updated Editor allows you to add styling and view the CSS of the formatted styling 
+![alt text](https://cdn.discordapp.com/attachments/1183911766405677218/1313347594277224488/Screenshot_2024-12-02_at_22.20.50.png?ex=674fcdc3&is=674e7c43&hm=290a54c828d82ed857084308afb8b2334a68ef449b71b9d3052ab3355e482dca&)
 - This is where you can edit spcific lessons, course, units, and sections. 
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-10-22%20at%2019.11.11.png)
 - This showcases an overview of our Lesson broken down.
