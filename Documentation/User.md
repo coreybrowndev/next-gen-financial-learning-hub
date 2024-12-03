@@ -1,8 +1,9 @@
 ## Editor
 
-![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-10-22%20at%2018.53.42.png)
-- This is the main dashboard.
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.06.50.png)
+- This is the updated main dashboard.
 - To create content click ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Capture.PNG)
+- You can click the cloud button to import JSON file to the database 
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-10-22%20at%2019.14.36.png)
 - This is our editor.
 - You can create different types of content described below.
@@ -23,10 +24,12 @@
 
 ## Quiz Page 
 - This is our Quiz Page.
-- You can view all the quizzes, add quizzes, edit quizzes, and view all variants
-![alt text]()
+- You can view all the quizzes, add quizzes, edit quizzes, delete quizess, delete questions/answers and view all variants
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.02.47.png)
 - You can add new quiz questions and answers by clikcing on "Add Question"
 - This brings up a modal which allows you to make a question
-![alt text]()
-- 
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.03.26.png)
+- You can also view the varitants of the quiz questions by clicking the "view variants" button
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.03.15.png)
+
 
