@@ -21,4 +21,12 @@
 - Then you can edit each sections.
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Courses_Section.PNG)
 
+## Quiz Page 
+- This is our Quiz Page.
+- You can view all the quizzes, add quizzes, edit quizzes, and view all variants
+![alt text]()
+- You can add new quiz questions and answers by clikcing on "Add Question"
+- This brings up a modal which allows you to make a question
+![alt text]()
+- 
 
