@@ -119,7 +119,7 @@ Gather the $API_KEY from a Developer listed on the project
   -  ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/docker-compose-output.png)  
 
 
-# BackEnd 
+# Backend 
 
 This is a backend application powering the Content Management System of Intertwined Financial, this application is built with the following technologies and libraries:
 
@@ -128,15 +128,14 @@ This is a backend application powering the Content Management System of Intertwi
 
 
 ## Folder Structure
-- Two Repos: FrontEnd and BackEnd
-- BackEnd is split into testing and API
+- Backend is split into testing and API under same project
 
 ## Frameworks 
 - ORM- EntityFramework.Core 8.0.10 , Microsoft.EntityFrameworkCore.Tools --version 8.0.10
 
 ## Testing 
 - cd NextGenFinancialLearningHub.Api.Tests
-- dotnet test -> runs all of the tests in the project
+- `dotnet test` -> runs all of the tests in the project
 
 ## Dependencies 
 - Seq - Logging service for processing application logs
@@ -146,15 +145,15 @@ This is a backend application powering the Content Management System of Intertwi
 - Xunit - 2.9.2 - Testing library
 - FluentAssertions - 7.0.0 - Testing
 - Moq - 4.20.72 - Data mocking for testing
-- SEQ - Login credentials - admin : J44F)?c0uRse
+- SEQ - Login credentials - collect from developer on project
 
 ## Config Files 
-- BackEnd .NET
+- Backend .NET
 ![alt text](https://cdn.discordapp.com/attachments/1183911766405677218/1313347594478555136/Screenshot_2024-12-02_at_22.33.57.png?ex=674fcdc3&is=674e7c43&hm=4b26d8eec908bce57da5c2ea858a24cfdc964e7bf2577d9ab5909daedbf416d6&)
 ![alt text](https://cdn.discordapp.com/attachments/1183911766405677218/1313347594705174589/Screenshot_2024-12-02_at_22.34.03.png?ex=674fcdc3&is=674e7c43&hm=31cdced92fa4c1597a3a27a0087b169ddd046b869250b75d3caef7359fbdf3ab&)
 ![alt text](https://cdn.discordapp.com/attachments/1183911766405677218/1313347594935865354/Screenshot_2024-12-02_at_22.34.14.png?ex=674fcdc3&is=674e7c43&hm=f98bf9f8602b5ee1ce268b5e33ba37cb5b68118ee7722d4ae3fd2622072f9689&)
 
-## Running the BackEnd 
+## Running the Backend 
 - start by running
   ```
   - docker compose up 
