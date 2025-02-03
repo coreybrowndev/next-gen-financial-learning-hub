@@ -1,5 +1,4 @@
 ## Editor
-
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.06.50.png)
 - This is the updated main dashboard.
 - To create content click ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Capture.PNG)
@@ -25,6 +24,7 @@
 
 ## Quiz Page 
 - This is our Quiz Page.
+- The Third Iteration allows the Quiz to be connected to the backend 
 - You can view all the quizzes, add quizzes, edit quizzes, delete quizess, delete questions/answers and view all variants
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.02.47.png)
 - You can add new quiz questions and answers by clikcing on "Add Question"
@@ -32,5 +32,4 @@
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.03.26.png)
 - You can also view the varitants of the quiz questions by clicking the "view variants" button
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.03.15.png)
-
-
+- You can now add questions and answers to already exisitng quizzes
