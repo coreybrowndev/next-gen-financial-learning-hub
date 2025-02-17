@@ -45,7 +45,7 @@
 ## Quiz Page Iteration 2
 - This is our Quiz Page.
 - You can view all the quizzes, add quizzes, edit quizzes, delete quizess, delete questions/answers and view all variants
-![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.02.47.png)
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot_2025-02-05_at_3.57.23_PM.png)
 - You can add new quiz questions and answers by clikcing on "Add Question"
 - This brings up a modal which allows you to make a question
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.03.26.png)
