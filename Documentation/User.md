@@ -60,6 +60,9 @@
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot_2025-02-05_at_3.57.31_PM.png)
 - This is our quiz creation modal
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot_2025-02-05_at_3.57.55_PM.png)
+## Quiz Page Iteration 4
+- The Fourth Iteration incorporated Final styling changes
+- This is our Updated Quiz Page 
 
 ## Iteration 3 Misc 
 - We added breadcrumb navigation to the course page
