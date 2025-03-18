@@ -62,7 +62,18 @@
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot_2025-02-05_at_3.57.55_PM.png)
 ## Quiz Page Iteration 4
 - The Fourth Iteration incorporated Final styling changes
-- This is our Updated Quiz Page 
+- This is our Updated Quiz Page
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Iteration%204%20Quiz%20Page.png)
+- You can now use an in-line editor thats allows you to edit the names of quizzes and questions
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/In-line%20editor.png)
+- You can now also delete quizzes and questions byt pressing this button after you hover over a select quiz or question
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Delete%20button.png)
+- Now there are question variants, the purpose of questions is that there are various variants of the same question that cycle through when a user gets a question wrong
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Question%20Variants.png)
+- Now you can also create answers for particular questions/variants
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Create%20Answer%20button.png)
+- All of these UI elements are connected to the backend
+
 
 ## Iteration 3 Misc 
 - We added breadcrumb navigation to the course page
