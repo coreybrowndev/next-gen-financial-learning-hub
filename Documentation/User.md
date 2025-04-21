@@ -1,3 +1,11 @@
+## Home Page Iteration 5 
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Home%20Page.png)
+- This is our Home Page
+- Active and Legacy Course Counter
+- Download and Upload button
+- List of all the course 
+
+
 ## Editor Iteration 2
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot%202024-12-02%20at%2022.06.50.png)
 - This is the updated main dashboard.
@@ -41,6 +49,19 @@
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot_2025-02-05_at_3.41.45_PM.png)
 - The edit details modal shows up again after you hit "Edit" button next to the section tab
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Screenshot_2025-02-05_at_3.41.45_PM.png)
+## Course Page Iteration 5
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Course%20Page.png)
+- New Styling
+- Broke down into Units, Lessons, Lesson editor and Sections
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Integrated%20quiz%20Page.png)
+- Quiz section is now integrated into the course page
+- Units, Sections, and Lessons have their own quizzes
+- ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Add%20Answer.PNG)
+  - Button to add answers to individuals variants 
+- ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Add%20Question.PNG)
+  - Button to add questions to specific unit, section, and lesson
+- ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Add%20Variant.PNG)
+   - Button to add variants/questions 
 
 ## Quiz Page Iteration 2
 - This is our Quiz Page.
@@ -73,6 +94,18 @@
 - Now you can also create answers for particular questions/variants
 ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Create%20Answer%20button.png)
 - All of these UI elements are connected to the backend
+## Integrated Quiz Page Interation 5
+![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Integrated%20quiz%20Page.png)
+- Quiz section is now integrated into the course page
+- Units, Sections, and Lessons have their own quizzes
+- ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Add%20Answer.PNG)
+  - Button to add answers to individuals variants 
+- ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Add%20Question.PNG)
+  - Button to add questions to specific unit, section, and lesson
+- ![alt text](https://github.com/coreybrowndev/next-gen-financial-learning-hub/blob/master/pictures/Add%20Variant.PNG)
+   - Button to add variants/questions 
+
+
 
 
 ## Iteration 3 Misc 
