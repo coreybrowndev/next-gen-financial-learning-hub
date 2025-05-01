@@ -17,7 +17,6 @@ Intertwined Finance
 - Kerry Ao
 
 ## **Links**
-
 - [Project description](ProjectDescription.md)
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
@@ -27,7 +26,5 @@ Intertwined Finance
 
 ## **Code Repositories**
 
-- [Mobile App - Android](https://www.github.com/WHEREEVER_THE_ANDROID_CODE_IS/)
-- [Php Backend](https://www.github.com/WHEREEVER_THE_PHP_CODE_IS)
-- Others if more.
-
+- [React Frontend UI Source Code](https://github.com/coreybrowndev/next-gen-financial-learning-hub-frontend)
+- [.NET Backend Source Code](https://github.com/coreybrowndev/next-gen-financial-learning-hub-api)
