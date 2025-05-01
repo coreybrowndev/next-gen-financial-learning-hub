@@ -1,16 +1,13 @@
-# Next Gen Financial Learning Hub: CMS and Global Economics Mini-Simulation
+# Next Gen Financial Learning Hub: Course Management System
 
 ## **Summary**
 
-Intertwined aims to expand its educational offerings by developing a state-of-the-art Content Management System (CMS) for our online coursework and a new Global Economics Simulation.
+Intertwined aims to expand its educational offerings by developing a state-of-the-art Content Management System (CMS) for our online coursework platform.
 
 ## **Team Members**
 
 - Corey Brown
-- Spenser Buck
-- Caige Rogers
 - Harry Soans
-- Kris Thurman
   
 ## **Client Partner Information**
 
