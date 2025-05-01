@@ -156,7 +156,7 @@ This is a backend application powering the Content Management System of Intertwi
 ## Running the Backend 
 - start by running
   ```
-  - docker compose up 
+  - docker compose up --build
 - cd NextGenFinancialLearningHub.Api.Tests
 - dotnet test -> runs all of the tests in the project
 
